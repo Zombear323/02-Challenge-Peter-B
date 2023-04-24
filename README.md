@@ -1,4 +1,4 @@
-# 02-Challenge-Peter-B
+# Challenge-01-Peter-B
 <h1>Repository for first weekly challenge</h1>
 
 <h2>User Story</h2>
