@@ -1,8 +1,13 @@
 # 02-Challenge-Peter-B
 <h1>Repository for first weekly challenge</h1>
 
+<h2>User Story</h2>
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
 <h2>Accetance Criteria</h2>
-<ul><li>
+<ul>
 <li>GIVEN a webpage meets accessibility standards</li>
 <li>WHEN I view the source code</li>
 <li>THEN I find semantic HTML elements X</li>
